@@ -1,2 +1,1 @@
-# ItSkills-fork-oefening
-ItSkills-fork-oefening
+Victor Leszczynski 27.11.2025
